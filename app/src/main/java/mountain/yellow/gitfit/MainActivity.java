@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }*/
 
     public void saveMessage(View view) {
-        // Do something in response to butto
+        // Do something in response to button
 
         String whatToWrite = ((EditText)findViewById(R.id.edit_message)).getText().toString();
 
